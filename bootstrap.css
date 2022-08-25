@@ -9,14 +9,13 @@ body{
 }
 
 .navbar-nav{
-    margin-left: 765px;
+    margin-left: 700px;
 }
 
 #navbar{
     position: sticky;
     top: 0;
     z-index: 1;
-    padding: 20px;
 }
 
 
