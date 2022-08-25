@@ -9,7 +9,8 @@ body{
 }
 
 .navbar-nav{
-    margin-left: 700px;
+    margin-left: 500px;
+    display:inline-flex;
 }
 
 #navbar{
