@@ -10,6 +10,7 @@ body{
 
 .navbar-nav{
     margin-left: 765px;
+    margin-bottom:  20px;
 }
 
 #navbar{
@@ -17,9 +18,7 @@ body{
     top: 0;
     z-index: 1;
 }
-.nav-link{
-    padding-left: -30px;
-}
+
 
 .btn:hover{
     color: white;
